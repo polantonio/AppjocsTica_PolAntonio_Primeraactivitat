@@ -1,0 +1,28 @@
+Exercici 1: 0.75/2
+  (a) 0.5/1. Vull que escriviu les fórmules usant les variables. Si defineixo 
+preu_entrada = 8.35
+nombres_entrades =5
+
+    LLavors la fórmula cost_total l'he de posar en funció de preu_entrada i nombre_entrades
+    cost_total = preu_entrada*nombre_entrades
+(b) 0.25/1. La fórmula final és incorrecte. 
+Solució:
+percentatge =88
+preu_final = nombre_entrades*preu_entrada - nombre_entrades_retornades*preu_entrada*percentatge/100
+
+Exercici 2: 1.5/1.5 
+
+Exercici 3: No està fet. 0/1.5
+
+Exercici 4:
+A l'enunciat estava especificat que definissiu primera_lletra , ultima_lletra i tres_lletres , nom_M, i nom_m , amb indexació i a partir de la variable nom:
+  primera_lletra=nom[0]
+  ultima_lletra = nom[-1]
+  tres_lletres = nom[2:5]
+  nom_M = nom.upper()
+  nom_m = nom.lower()
+L'Enunciat també demanava que retornessiu un únic text amb els prints.
+  1.5/4
+
+Github: 1/1
+Jupyter: 1/1
