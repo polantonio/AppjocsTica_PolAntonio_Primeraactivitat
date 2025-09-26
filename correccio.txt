@@ -1,4 +1,4 @@
-Exercici 1: 0.75/2
+Exercici 1: 1/2
   (a) 0.5/1. Vull que escriviu les fórmules usant les variables. Si defineixo 
 preu_entrada = 8.35
 nombres_entrades =5
@@ -22,7 +22,9 @@ A l'enunciat estava especificat que definissiu primera_lletra , ultima_lletra i 
   nom_M = nom.upper()
   nom_m = nom.lower()
 L'Enunciat també demanava que retornessiu un únic text amb els prints.
-  1.5/4
+  2/4
 
 Github: 1/1
 Jupyter: 1/1
+
+Nota final= 6.5/11 --> 6/10
